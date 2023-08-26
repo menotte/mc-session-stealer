@@ -1,1 +1,2 @@
-mc session id stealer.
+educational purposes
+mc session id stealer
