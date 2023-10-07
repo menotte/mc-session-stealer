@@ -12,12 +12,10 @@ public class ModMain {
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-        // Code to exec before
     }
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
-        // Init code
     }
 
     @Mod.EventHandler
